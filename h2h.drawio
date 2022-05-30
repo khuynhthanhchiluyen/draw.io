@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-30T04:25:46.546Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="fnyxp1KoT7K9gV0BLQnZ" version="17.4.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-05-30T04:26:12.685Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="bUZsv6XXs7B8XFcp9z9g" version="17.4.5" type="github" pages="3">
   <diagram id="kHL0ZJW6jmxa_d2j9imH" name="Host to host">
     <mxGraphModel dx="1129" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -519,7 +519,7 @@
             <mxPoint x="230" y="500.15999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NfxZ6yRnBT5zUK7QzI7M-1" value="kafka&lt;br&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;(notify.cs.trans)&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="NfxZ6yRnBT5zUK7QzI7M-1" value="kafka" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="180" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
