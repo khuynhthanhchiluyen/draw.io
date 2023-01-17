@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-16T12:55:04.988Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="_5dWVh3qnAV0_gjcsOct" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T02:15:53.094Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.5" etag="QvQk7LeR5wa4GLEdfDgH" type="github">
   <diagram id="QirQOxqdsBDgFj3gGUnx" name="Page-1">
-    <mxGraphModel dx="939" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="939" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="02onX3YyNPy_yh-qRUFS-1" value="Cash deposite" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="02onX3YyNPy_yh-qRUFS-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="300" width="240" height="120" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-2" value="Capital (bond/fund/stock)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -171,19 +171,25 @@
           <mxGeometry x="169" y="347" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-50" value="balance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="310" width="70" height="30" as="geometry" />
+          <mxGeometry x="290" y="317" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="02onX3YyNPy_yh-qRUFS-51" value="interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="373" width="70" height="30" as="geometry" />
+        <mxCell id="02onX3YyNPy_yh-qRUFS-51" value="flexible interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="439" y="317" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-52" value="sweeping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="438" y="373" width="70" height="30" as="geometry" />
+          <mxGeometry x="439" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-53" value="customer info" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="438" y="310" width="70" height="30" as="geometry" />
+          <mxGeometry x="290" y="370" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-54" value="transaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="364" y="373" width="70" height="30" as="geometry" />
+          <mxGeometry x="365" y="370" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="02onX3YyNPy_yh-qRUFS-55" value="fixed interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="364" y="317" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="02onX3YyNPy_yh-qRUFS-58" value="Cash deposite system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="520" y="345" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
