@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-30T03:59:43.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="8KyqC_oQCQv3iA6DL8J3" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-30T04:50:02.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="1mg2G66GRo26MD8SVNRs" version="20.8.13" type="github">
   <diagram id="QirQOxqdsBDgFj3gGUnx" name="Page-1">
-    <mxGraphModel dx="724" dy="378" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,7 +173,7 @@
         <mxCell id="02onX3YyNPy_yh-qRUFS-50" value="balance" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="290" y="317" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="02onX3YyNPy_yh-qRUFS-51" value="flexible interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="02onX3YyNPy_yh-qRUFS-51" value="ops/report" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="439" y="317" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-52" value="sweeping" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
@@ -185,7 +185,7 @@
         <mxCell id="02onX3YyNPy_yh-qRUFS-54" value="transaction" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="365" y="370" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="02onX3YyNPy_yh-qRUFS-55" value="fixed interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="02onX3YyNPy_yh-qRUFS-55" value="interest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="364" y="317" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-58" value="Cash deposit system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontStyle=1" parent="1" vertex="1">
