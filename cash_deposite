@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-01T03:32:01.024Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="kGMHN7SrQ8tYV2lWjTty" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-01T03:52:35.860Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="gdJAL7hQgHlC0cryMIhi" version="20.8.5" type="github">
   <diagram id="QirQOxqdsBDgFj3gGUnx" name="Page-1">
     <mxGraphModel dx="939" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -67,23 +67,12 @@
         </mxCell>
         <mxCell id="02onX3YyNPy_yh-qRUFS-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="384" as="sourcePoint" />
-            <mxPoint x="280" y="384.05999999999995" as="targetPoint" />
+            <mxPoint x="120" y="379.66" as="sourcePoint" />
+            <mxPoint x="280" y="379.71999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE6je5aKDI5gHFs4yXvV-7" value="&amp;nbsp;withdraw" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="02onX3YyNPy_yh-qRUFS-43">
           <mxGeometry x="-0.2494" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="02onX3YyNPy_yh-qRUFS-47" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;entryX=0;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="361" as="sourcePoint" />
-            <mxPoint x="280" y="361.03999999999996" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="rE6je5aKDI5gHFs4yXvV-8" value="transfer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="02onX3YyNPy_yh-qRUFS-47">
-          <mxGeometry x="-0.3208" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
